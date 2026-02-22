@@ -122,7 +122,7 @@ Going deeper into:
   <a href="https://github.com/MphoCodes">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://mcn-digital.co.za/">
+  <a href="https://mphondlela.co.za/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
